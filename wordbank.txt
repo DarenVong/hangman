@@ -1,0 +1,21 @@
+﻿WORD BANK
+banana
+carrot
+elephant
+giraffe
+kangaroo
+chocolate
+pineapple
+watermelon
+strawberry
+blueberry
+crocodile
+hamburger
+honeydew
+waterfowl
+guitarist
+piano
+sunflower
+tiger
+octopus
+umbrella
